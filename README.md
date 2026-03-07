@@ -54,8 +54,43 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Tuesday** 
 
- Last Updated on 07/03/2026 18:29:29 UTC
+```text
+Monday                   240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Tuesday                  928 commits         ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Wednesday                524 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Thursday                 166 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Friday                   493 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Saturday                 598 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Sunday                   564 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    3 hrs 53 mins       ██████████████████████░░░   86.91 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+TOML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+
+🔥 Editors: 
+Google Calendar          3 hrs 32 mins       ████████████████████░░░░░   79.16 % 
+Neovim                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Chrome                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+ParallelsDesktop         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+
+💻 Operating System: 
+Unknown OS               3 hrs 32 mins       ████████████████████░░░░░   79.16 % 
+Mac                      55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+```
+
+
+ Last Updated on 07/03/2026 21:20:20 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
