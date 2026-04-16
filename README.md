@@ -54,8 +54,43 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Tuesday** 
 
- Last Updated on 16/04/2026 19:08:50 UTC
+```text
+Monday                   258 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Tuesday                  954 commits         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+Wednesday                575 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Thursday                 221 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Friday                   560 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Saturday                 675 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Sunday                   601 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    26 hrs 21 mins      ████████████████████░░░░░   78.57 % 
+TypeScript               3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Markdown                 1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Terraform                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+
+🔥 Editors: 
+iTerm2                   13 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   41.33 % 
+Dia                      9 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+Chrome                   2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Kindle                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Slack                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+
+💻 Operating System: 
+Mac                      32 hrs 33 mins      ████████████████████████░   97.02 % 
+Unknown OS               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+```
+
+
+ Last Updated on 16/04/2026 21:42:14 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
