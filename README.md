@@ -54,8 +54,37 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Tuesday** 
 
- Last Updated on 29/04/2026 19:19:29 UTC
+```text
+Monday                   270 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Tuesday                  999 commits         ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Wednesday                614 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Thursday                 257 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Friday                   638 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Saturday                 711 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Sunday                   637 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    2 hrs 49 mins       █████████████████████████   99.93 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+🔥 Editors: 
+Google Calendar          2 hrs 49 mins       █████████████████████████   99.93 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+
+💻 Operating System: 
+Unknown OS               2 hrs 49 mins       █████████████████████████   99.93 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+```
+
+
+ Last Updated on 29/04/2026 21:59:18 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
