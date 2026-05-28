@@ -54,43 +54,8 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Tuesday** 
 
-```text
-Monday                   286 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Tuesday                  1023 commits        ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-Wednesday                636 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 266 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Friday                   664 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Saturday                 736 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-Sunday                   659 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    16 hrs 44 mins      ███████████████████░░░░░░   76.11 % 
-Python                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Markdown                 1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Lua                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-
-🔥 Editors: 
-Dia                      7 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.85 % 
-Claude Code              4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Chrome                   3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Google Calendar          2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-SparkDesktop             47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-
-💻 Operating System: 
-Mac                      20 hrs              ███████████████████████░░   90.91 % 
-Unknown OS               2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
- Last Updated on 28/05/2026 12:27:37 UTC
+ Last Updated on 28/05/2026 18:04:47 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
