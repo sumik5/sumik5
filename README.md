@@ -54,8 +54,43 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
+📅 **I'm Most Productive on Tuesday** 
 
- Last Updated on 05/07/2026 19:10:33 UTC
+```text
+Monday                   390 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Tuesday                  1138 commits        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Wednesday                790 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Thursday                 383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Friday                   826 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Saturday                 872 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+Sunday                   808 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    3 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.55 % 
+Markdown                 2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+TOML                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+TeX                      1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Text                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+
+🔥 Editors: 
+Claude Code              4 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.71 % 
+Dia                      2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+UPDF                     1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+iTerm2                   1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Codex CLI                42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+
+💻 Operating System: 
+Mac                      10 hrs 53 mins      ████████████████████████░   95.76 % 
+Unknown OS               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+```
+
+
+ Last Updated on 05/07/2026 21:59:55 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
