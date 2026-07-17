@@ -71,26 +71,25 @@ Sunday                   795 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.09 % 
-Dart                     5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Swift                    3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Other                    2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Text                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Markdown                 15 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   41.36 % 
+Dart                     5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Other                    4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Swift                    4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Text                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 47 mins      ██████████████░░░░░░░░░░░   56.94 % 
-Dia                      7 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-iTerm2                   2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Codex CLI                1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-VS Code                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Claude Code              19 hrs 53 mins      █████████████░░░░░░░░░░░░   52.59 % 
+Dia                      10 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+iTerm2                   2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Codex CLI                1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+VS Code                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 💻 Operating System: 
-Mac                      36 hrs 2 mins       █████████████████████████   98.71 % 
-Unknown OS               28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Mac                      37 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/07/2026 16:14:35 UTC
+ Last Updated on 17/07/2026 19:03:57 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
