@@ -71,25 +71,25 @@ Sunday                   800 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 15 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   33.07 % 
-Other                    13 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Swift                    5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Text                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Dart                     2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Other                    16 hrs 1 min        █████████░░░░░░░░░░░░░░░░   37.53 % 
+Markdown                 14 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   34.39 % 
+Text                     2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Swift                    2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Bash                     2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 42 mins      █████████████░░░░░░░░░░░░   50.58 % 
-Dia                      14 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
-ParallelsDesktop         2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-SparkDesktop             1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-UPDF                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Claude Code              19 hrs 49 mins      ████████████░░░░░░░░░░░░░   46.41 % 
+Dia                      13 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   32.49 % 
+ParallelsDesktop         2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+SparkDesktop             1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+UPDF                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 💻 Operating System: 
-Mac                      46 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      42 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/07/2026 16:21:35 UTC
+ Last Updated on 22/07/2026 19:08:45 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
