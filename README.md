@@ -71,25 +71,26 @@ Sunday                   808 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    16 hrs 1 min        █████████░░░░░░░░░░░░░░░░   37.53 % 
-Markdown                 14 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   34.39 % 
-Text                     2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Swift                    2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Bash                     2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Other                    19 hrs 52 mins      ████████████░░░░░░░░░░░░░   48.10 % 
+Markdown                 10 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Text                     2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Bash                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 49 mins      ████████████░░░░░░░░░░░░░   46.41 % 
-Dia                      13 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   32.49 % 
-ParallelsDesktop         2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-SparkDesktop             1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-UPDF                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Claude Code              17 hrs 30 mins      ███████████░░░░░░░░░░░░░░   42.37 % 
+Dia                      13 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   32.96 % 
+ParallelsDesktop         2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+UPDF                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+SparkDesktop             1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Mac                      42 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      40 hrs 19 mins      ████████████████████████░   97.58 % 
+Unknown OS               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 ```
 
 
- Last Updated on 23/07/2026 16:27:08 UTC
+ Last Updated on 23/07/2026 19:08:49 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
