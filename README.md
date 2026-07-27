@@ -54,7 +54,7 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-363%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-367%20hrs%2026%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -73,52 +73,52 @@ Sunday                   818 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 56 mins      █████████████░░░░░░░░░░░░   53.22 % 
-Markdown                 11 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Bash                     3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Text                     2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Other                    21 hrs 26 mins      ████████████░░░░░░░░░░░░░   49.18 % 
+Markdown                 10 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Bash                     3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Text                     2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+TeX                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   34.70 % 
-Dia                      15 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   33.07 % 
-UPDF                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Codex CLI                1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-SparkDesktop             1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Claude Code              15 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   35.42 % 
+Dia                      13 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   31.74 % 
+UPDF                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Codex CLI                1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Google Calendar          1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 💻 Operating System: 
-Mac                      45 hrs 1 min        ████████████████████████░   96.11 % 
-Unknown OS               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Mac                      41 hrs 46 mins      ████████████████████████░   95.82 % 
+Unknown OS               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 1 min (57.68%)
+⏱ AI Coding Time: 25 hrs 20 mins (58.12%)
 
-✍️ 19,934 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 18,752 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 952,964,374 Input Tokens, 4,737,661 Output Tokens
+🔤 933,898,332 Input Tokens, 4,706,859 Output Tokens
 
-💵 $2988.17 Estimated AI Cost This Week
+💵 $2918.48 Estimated AI Cost This Week
 
-🧠 77 AI Sessions, 409 AI Prompts
+🧠 58 AI Sessions, 368 AI Prompts
 
-Sonnet                   17,176 lines        ██████████████████████░░░   86.69 % 
-GPT                      1,381 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Opus                     1,256 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Sonnet                   14,549 lines        █████████████████████░░░░   82.44 % 
+Opus                     1,693 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+GPT                      1,381 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Fable                    25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 2,207 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+📚 Verbose Prompter — average 1,771 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 16:59:33 UTC
+ Last Updated on 27/07/2026 19:23:05 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
