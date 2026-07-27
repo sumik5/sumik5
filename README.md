@@ -54,6 +54,8 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-363%20hrs%2044%20mins-blue?style=flat)
+
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
@@ -89,8 +91,34 @@ Mac                      45 hrs 1 min        ███████████�
 Unknown OS               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 12:20:41 UTC
+```text
+⏱ AI Coding Time: 27 hrs 1 min (57.68%)
+
+✍️ 19,934 lines written by AI, 1 lines written by hand (99.99% AI-written)
+
+🔤 952,964,374 Input Tokens, 4,737,661 Output Tokens
+
+💵 $2988.17 Estimated AI Cost This Week
+
+🧠 77 AI Sessions, 409 AI Prompts
+
+Sonnet                   17,176 lines        ██████████████████████░░░   86.69 % 
+GPT                      1,381 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Opus                     1,256 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.99% of written lines came from AI
+📚 Verbose Prompter — average 2,207 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 16:59:33 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
