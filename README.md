@@ -54,7 +54,7 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-367%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2019%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -73,52 +73,52 @@ Sunday                   818 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    17 hrs 45 mins      ████████████░░░░░░░░░░░░░   48.65 % 
-Markdown                 8 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Bash                     3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-TeX                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Python                   1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Other                    17 hrs 53 mins      ████████████░░░░░░░░░░░░░   47.32 % 
+Markdown                 8 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+TeX                      3 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Bash                     2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.31 % 
-Dia                      11 hrs 29 mins      ████████░░░░░░░░░░░░░░░░░   31.47 % 
-Codex CLI                1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-UPDF                     1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Google Calendar          1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Claude Code              11 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Dia                      10 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+VS Code                  2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+UPDF                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Codex CLI                1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 💻 Operating System: 
-Mac                      34 hrs 41 mins      ████████████████████████░   95.00 % 
-Unknown OS               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Mac                      35 hrs 58 mins      ████████████████████████░   95.17 % 
+Unknown OS               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 51 mins (57.1%)
+⏱ AI Coding Time: 21 hrs 27 mins (56.77%)
 
-✍️ 13,498 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 13,765 lines written by AI, 28 lines written by hand (99.8% AI-written)
 
-🔤 633,441,224 Input Tokens, 2,979,668 Output Tokens
+🔤 721,982,851 Input Tokens, 3,372,964 Output Tokens
 
-💵 $1945.51 Estimated AI Cost This Week
+💵 $2076.01 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 276 AI Prompts
+🧠 64 AI Sessions, 318 AI Prompts
 
-Sonnet                   9,991 lines         ████████████████████░░░░░   81.72 % 
-GPT                      1,381 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Opus                     829 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Fable                    25 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Sonnet                   9,793 lines         ████████████████████░░░░░   79.11 % 
+GPT                      1,381 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Opus                     1,166 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Fable                    39 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 1,884 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🤖 AI-Driven — 99.8% of written lines came from AI
+📚 Verbose Prompter — average 2,238 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.31% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 16:21:50 UTC
+ Last Updated on 29/07/2026 19:09:11 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
