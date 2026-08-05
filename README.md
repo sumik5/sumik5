@@ -54,7 +54,7 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-393%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-393%20hrs%2042%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -73,52 +73,52 @@ Sunday                   875 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   33.61 % 
-Other                    7 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-TeX                      3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Python                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Text                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Markdown                 9 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.06 % 
+Other                    9 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.53 % 
+Python                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Text                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+TypeScript               1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 53 mins      ███████████████░░░░░░░░░░   58.85 % 
-Dia                      4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-VS Code                  2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Chrome                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Google Calendar          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Claude Code              17 hrs 11 mins      ██████████████░░░░░░░░░░░   55.98 % 
+Dia                      5 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Chrome                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+VS Code                  1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+SparkDesktop             1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 💻 Operating System: 
-Mac                      32 hrs 48 mins      ████████████████████████░   97.04 % 
-Unknown OS               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Mac                      29 hrs 42 mins      ████████████████████████░   96.74 % 
+Unknown OS               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 59 mins (76.9%)
+⏱ AI Coding Time: 21 hrs 23 mins (69.68%)
 
-✍️ 30,619 lines written by AI, 54 lines written by hand (99.82% AI-written)
+✍️ 29,734 lines written by AI, 27 lines written by hand (99.91% AI-written)
 
-🔤 1,862,519,127 Input Tokens, 6,360,451 Output Tokens
+🔤 1,609,682,189 Input Tokens, 5,440,883 Output Tokens
 
-💵 $5672.57 Estimated AI Cost This Week
+💵 $5052.66 Estimated AI Cost This Week
 
-🧠 170 AI Sessions, 505 AI Prompts
+🧠 149 AI Sessions, 420 AI Prompts
 
-Sonnet                   24,846 lines        ████████████████████░░░░░   79.38 % 
-Opus                     6,296 lines         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-GPT                      118 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Fable                    40 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Sonnet                   24,308 lines        ████████████████████░░░░░   79.93 % 
+Opus                     5,959 lines         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+GPT                      118 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Fable                    26 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.82% of written lines came from AI
-📚 Verbose Prompter — average 3,190 characters per prompt
+🤖 AI-Driven — 99.91% of written lines came from AI
+📚 Verbose Prompter — average 3,159 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.53% of changed lines were hand-edited
+🚀 High AI Trust — 0.42% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 16:34:15 UTC
+ Last Updated on 05/08/2026 19:25:16 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
