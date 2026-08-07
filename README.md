@@ -56,8 +56,69 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-397%20hrs%2035%20mins-blue?style=flat)
 
+📅 **I'm Most Productive on Tuesday** 
 
- Last Updated on 07/08/2026 18:49:58 UTC
+```text
+Monday                   459 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Tuesday                  1222 commits        █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+Wednesday                886 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Thursday                 434 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Friday                   912 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Saturday                 927 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Sunday                   867 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    6 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.69 % 
+Markdown                 5 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
+Text                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.22 % 
+Dia                      2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+VS Code                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Google Calendar          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+SparkDesktop             57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+
+💻 Operating System: 
+Mac                      14 hrs 32 mins      ███████████████████████░░   93.56 % 
+Unknown OS               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 1 min (51.68%)
+
+✍️ 6,030 lines written by AI, 27 lines written by hand (99.55% AI-written)
+
+🔤 418,554,276 Input Tokens, 2,055,301 Output Tokens
+
+💵 $1187.95 Estimated AI Cost This Week
+
+🧠 58 AI Sessions, 167 AI Prompts
+
+Sonnet                   4,869 lines         ██████████████████░░░░░░░   73.59 % 
+Fable                    1,004 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Opus                     743 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.55% of written lines came from AI
+📚 Verbose Prompter — average 3,370 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.96% of changed lines were hand-edited
+```
+
+
+ Last Updated on 07/08/2026 21:38:05 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
