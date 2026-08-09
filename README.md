@@ -73,52 +73,52 @@ Sunday                   867 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.69 % 
-Markdown                 5 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.61 % 
-Text                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Other                    6 hrs 55 mins       ████████████░░░░░░░░░░░░░   49.43 % 
+Markdown                 5 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.45 % 
+Text                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+R                        20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.22 % 
-Dia                      2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-VS Code                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-Google Calendar          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-SparkDesktop             57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Claude Code              5 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.45 % 
+Dia                      2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+VS Code                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Google Calendar          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+SparkDesktop             57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 
 💻 Operating System: 
-Mac                      14 hrs 32 mins      ███████████████████████░░   93.56 % 
-Unknown OS               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Mac                      12 hrs 59 mins      ███████████████████████░░   92.86 % 
+Unknown OS               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 1 min (51.68%)
+⏱ AI Coding Time: 6 hrs 29 mins (46.36%)
 
-✍️ 6,030 lines written by AI, 27 lines written by hand (99.55% AI-written)
+✍️ 4,818 lines written by AI, 27 lines written by hand (99.44% AI-written)
 
-🔤 418,554,276 Input Tokens, 2,055,301 Output Tokens
+🔤 296,580,299 Input Tokens, 1,586,936 Output Tokens
 
-💵 $1187.95 Estimated AI Cost This Week
+💵 $847.73 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 167 AI Prompts
+🧠 45 AI Sessions, 132 AI Prompts
 
-Sonnet                   4,869 lines         ██████████████████░░░░░░░   73.59 % 
-Fable                    1,004 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Opus                     743 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Sonnet                   3,628 lines         ██████████████████░░░░░░░   72.50 % 
+Fable                    1,004 lines         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Opus                     372 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.55% of written lines came from AI
-📚 Verbose Prompter — average 3,370 characters per prompt
+🤖 AI-Driven — 99.44% of written lines came from AI
+📚 Verbose Prompter — average 3,386 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.96% of changed lines were hand-edited
+🚀 High AI Trust — 2.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 15:30:03 UTC
+ Last Updated on 09/08/2026 18:34:51 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
