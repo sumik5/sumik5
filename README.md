@@ -54,7 +54,7 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-399%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-399%20hrs%2050%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -73,52 +73,51 @@ Sunday                   875 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.44 % 
-Markdown                 5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.59 % 
-TypeScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Other                    4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   41.85 % 
+Markdown                 4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.08 % 
+TypeScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 44 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
-Dia                      2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-VS Code                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
-Google Calendar          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-SparkDesktop             57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Claude Code              5 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.90 % 
+Dia                      2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+SparkDesktop             56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Kindle                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 💻 Operating System: 
-Mac                      12 hrs 21 mins      ███████████████████████░░   92.51 % 
-Unknown OS               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Mac                      11 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 49 mins (51.11%)
+⏱ AI Coding Time: 6 hrs 28 mins (57.9%)
 
-✍️ 6,795 lines written by AI, 26 lines written by hand (99.62% AI-written)
+✍️ 6,793 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 273,543,931 Input Tokens, 1,526,735 Output Tokens
+🔤 268,995,471 Input Tokens, 1,501,492 Output Tokens
 
-💵 $746.52 Estimated AI Cost This Week
+💵 $702.57 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 118 AI Prompts
+🧠 41 AI Sessions, 112 AI Prompts
 
-Sonnet                   4,423 lines         ████████████████░░░░░░░░░   63.87 % 
-Opus                     2,473 lines         █████████░░░░░░░░░░░░░░░░   35.71 % 
-Fable                    29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Sonnet                   4,423 lines         ███████████████░░░░░░░░░░   60.64 % 
+Opus                     2,868 lines         ██████████░░░░░░░░░░░░░░░   39.32 % 
+Fable                    3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.62% of written lines came from AI
-📚 Verbose Prompter — average 4,131 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 4,398 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.86% of changed lines were hand-edited
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 15:59:55 UTC
+ Last Updated on 11/08/2026 19:00:04 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
