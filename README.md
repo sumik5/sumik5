@@ -54,17 +54,17 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-400%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-402%20hrs%2043%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   474 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Monday                   475 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 Tuesday                  1264 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
 Wednesday                956 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 Thursday                 463 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 Friday                   974 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Saturday                 998 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Saturday                 998 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 Sunday                   910 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 ```
 
@@ -73,46 +73,51 @@ Sunday                   910 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   39.95 % 
-TypeScript               54 mins             ████████░░░░░░░░░░░░░░░░░   31.22 % 
-Prolog                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Terraform                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Markdown                 2 hrs 45 mins       █████████████░░░░░░░░░░░░   53.67 % 
+TypeScript               54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Python                   32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Prolog                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 54 mins       █████████████████████████   99.96 % 
-FreeDownloadManager      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              4 hrs 9 mins        ████████████████████░░░░░   81.10 % 
+Dia                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Codex Exec               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+FreeDownloadManager      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      2 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 54 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 7 mins (100.0%)
 
-✍️ 3,960 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,903 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 37,428,796 Input Tokens, 626,430 Output Tokens
+🔤 42,465,827 Input Tokens, 1,188,788 Output Tokens
 
-💵 $168.09 Estimated AI Cost This Week
+💵 $223.20 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 59 AI Prompts
+🧠 45 AI Sessions, 137 AI Prompts
 
-Opus                     2,496 lines         ██████████████░░░░░░░░░░░   57.09 % 
-Sonnet                   1,782 lines         ██████████░░░░░░░░░░░░░░░   40.76 % 
-Fable                    94 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Opus                     3,232 lines         █████████████░░░░░░░░░░░░   50.72 % 
+Sonnet                   3,046 lines         ████████████░░░░░░░░░░░░░   47.80 % 
+Fable                    94 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,289 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 5,095 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 15:19:35 UTC
+ Last Updated on 15/08/2026 18:24:06 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
