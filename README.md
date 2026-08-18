@@ -73,51 +73,52 @@ Sunday                   913 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   37.06 % 
-Python                   1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Terraform                1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Prolog                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Markdown                 2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Python                   1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Terraform                1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Prolog                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 50 mins       █████████████████████░░░░   83.31 % 
-Dia                      36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Codex Exec               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-FreeDownloadManager      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              4 hrs 44 mins       ██████████████████░░░░░░░   70.62 % 
+Google Calendar          1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Dia                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Codex Exec               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Codex CLI                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Mac                      5 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 42 mins       █████████████████████░░░░   85.09 % 
+Unknown OS               1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 48 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 42 mins (85.09%)
 
-✍️ 4,071 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,053 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,581,641 Input Tokens, 984,503 Output Tokens
+🔤 7,535,119 Input Tokens, 966,786 Output Tokens
 
-💵 $111.16 Estimated AI Cost This Week
+💵 $107.01 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 155 AI Prompts
+🧠 41 AI Sessions, 154 AI Prompts
 
-Sonnet                   3,372 lines         ██████████████████░░░░░░░   73.35 % 
-Opus                     1,131 lines         ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-Fable                    94 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Sonnet                   3,372 lines         ████████████████████░░░░░   80.25 % 
+Opus                     736 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Fable                    94 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,111 characters per prompt
+📚 Verbose Prompter — average 4,093 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/08/2026 15:30:20 UTC
+ Last Updated on 18/08/2026 18:33:50 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
