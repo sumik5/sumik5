@@ -73,52 +73,52 @@ Sunday                   913 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.09 % 
-Terraform                1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Python                   1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Other                    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-TeX                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Markdown                 3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.51 % 
+Other                    2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Terraform                1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+TeX                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 18 mins       ████████████████████░░░░░   80.88 % 
-Google Calendar          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-SparkDesktop             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Slack                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Codex Exec               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Claude Code              5 hrs 29 mins       ████████████████░░░░░░░░░   64.91 % 
+Google Calendar          2 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+SparkDesktop             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Slack                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Codex Exec               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Mac                      9 hrs 16 mins       ███████████████████████░░   90.27 % 
-Unknown OS               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Mac                      6 hrs 26 mins       ███████████████████░░░░░░   76.33 % 
+Unknown OS               2 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 16 mins (90.27%)
+⏱ AI Coding Time: 6 hrs 26 mins (76.33%)
 
-✍️ 8,478 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,658 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 16,301,837 Input Tokens, 1,801,430 Output Tokens
+🔤 14,379,980 Input Tokens, 1,496,872 Output Tokens
 
-💵 $233.18 Estimated AI Cost This Week
+💵 $212.05 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 192 AI Prompts
+🧠 44 AI Sessions, 150 AI Prompts
 
-Sonnet                   5,883 lines         █████████████████░░░░░░░░   67.72 % 
-Opus                     2,107 lines         ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-Fable                    697 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Sonnet                   3,996 lines         ███████████████░░░░░░░░░░   58.76 % 
+Opus                     2,107 lines         ████████░░░░░░░░░░░░░░░░░   30.99 % 
+Fable                    697 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,817 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 4,514 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 15:20:31 UTC
+ Last Updated on 23/08/2026 18:23:40 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
