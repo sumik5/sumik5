@@ -54,7 +54,7 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-411%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-414%20hrs%2045%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -73,52 +73,52 @@ Sunday                   913 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.51 % 
-Other                    2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Terraform                1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-TeX                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Markdown                 4 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.52 % 
+Other                    2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Terraform                1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+TeX                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 29 mins       ████████████████░░░░░░░░░   64.91 % 
-Google Calendar          2 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-SparkDesktop             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Slack                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-Codex Exec               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Claude Code              8 hrs 14 mins       ██████████████████░░░░░░░   73.53 % 
+Google Calendar          2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+SparkDesktop             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Slack                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Codex Exec               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Mac                      6 hrs 26 mins       ███████████████████░░░░░░   76.33 % 
-Unknown OS               2 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Mac                      9 hrs 12 mins       █████████████████████░░░░   82.17 % 
+Unknown OS               2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 26 mins (76.33%)
+⏱ AI Coding Time: 9 hrs 12 mins (82.17%)
 
-✍️ 6,658 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,948 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,379,980 Input Tokens, 1,496,872 Output Tokens
+🔤 20,779,738 Input Tokens, 2,160,122 Output Tokens
 
-💵 $212.05 Estimated AI Cost This Week
+💵 $264.36 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 150 AI Prompts
+🧠 65 AI Sessions, 227 AI Prompts
 
-Sonnet                   3,996 lines         ███████████████░░░░░░░░░░   58.76 % 
-Opus                     2,107 lines         ████████░░░░░░░░░░░░░░░░░   30.99 % 
-Fable                    697 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Sonnet                   5,898 lines         ███████████████░░░░░░░░░░   58.18 % 
+Opus                     3,542 lines         █████████░░░░░░░░░░░░░░░░   34.94 % 
+Fable                    697 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,514 characters per prompt
+📚 Verbose Prompter — average 3,682 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 15:39:27 UTC
+ Last Updated on 24/08/2026 18:36:09 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
