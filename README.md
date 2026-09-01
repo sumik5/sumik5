@@ -54,18 +54,18 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-445%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-455%20hrs%206%20mins-blue?style=flat)
 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   500 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Tuesday                  1278 commits        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Wednesday                975 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Thursday                 477 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Friday                   999 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Saturday                 1030 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Sunday                   924 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Monday                   504 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Tuesday                  1278 commits        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Wednesday                977 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Thursday                 481 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Friday                   1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Saturday                 1032 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Sunday                   924 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 ```
 
 
@@ -73,51 +73,51 @@ Sunday                   924 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-Python                   9 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-JSON                     7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Text                     2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Bash                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Markdown                 12 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+Python                   10 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+JSON                     9 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Other                    3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Bash                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 🔥 Editors: 
-Claude Code              29 hrs 24 mins      █████████████████████░░░░   82.68 % 
-Dia                      4 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-SparkDesktop             36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Codex Exec               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Slack                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Claude Code              34 hrs 27 mins      ████████████████████░░░░░   79.92 % 
+Dia                      6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+SparkDesktop             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Codex Exec               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Notes                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Mac                      35 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      43 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 hrs 49 mins (95.11%)
+⏱ AI Coding Time: 40 hrs 20 mins (93.57%)
 
-✍️ 58,611 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 76,277 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 79,609,477 Input Tokens, 6,704,560 Output Tokens
+🔤 89,107,297 Input Tokens, 7,852,338 Output Tokens
 
-💵 $754.17 Estimated AI Cost This Week
+💵 $904.44 Estimated AI Cost This Week
 
-🧠 114 AI Sessions, 507 AI Prompts
+🧠 107 AI Sessions, 570 AI Prompts
 
-Sonnet                   57,496 lines        ████████████████████████░   95.50 % 
-Opus                     2,707 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Sonnet                   75,337 lines        ████████████████████████░   94.95 % 
+Opus                     4,005 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,771 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 2,709 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 31/08/2026 18:41:44 UTC
+ Last Updated on 01/09/2026 00:24:04 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
