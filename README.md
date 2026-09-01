@@ -54,70 +54,10 @@
 <h3>My Wakatime data</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-455%20hrs%206%20mins-blue?style=flat)
-
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   506 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Tuesday                  1278 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Wednesday                978 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Thursday                 483 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Friday                   1002 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-Saturday                 1037 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Sunday                   924 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-459%20hrs%201%20min-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 12 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   28.77 % 
-Python                   10 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-JSON                     9 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Other                    3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Bash                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-
-🔥 Editors: 
-Claude Code              34 hrs 27 mins      ████████████████████░░░░░   79.92 % 
-Dia                      6 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-SparkDesktop             1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Codex Exec               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Notes                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-
-💻 Operating System: 
-Mac                      43 hrs 6 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 40 hrs 20 mins (93.57%)
-
-✍️ 76,277 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 89,107,297 Input Tokens, 7,852,338 Output Tokens
-
-💵 $904.44 Estimated AI Cost This Week
-
-🧠 107 AI Sessions, 570 AI Prompts
-
-Sonnet                   75,337 lines        ████████████████████████░   94.95 % 
-Opus                     4,005 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,709 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-
- Last Updated on 01/09/2026 18:12:39 UTC
+ Last Updated on 01/09/2026 23:02:01 UTC
 <!--END_SECTION:waka-->
 
 <h3>Where to find me</h3>
